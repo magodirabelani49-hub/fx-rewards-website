@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
-  <title id="title">FX Rewards icon</title><desc id="desc">Clear FX letters with an upward blue reward arrow.</desc>
-  <rect width="120" height="120" rx="28" fill="#0f172a"/>
-  <path d="M48 86 L93 43" stroke="#2D8CFF" stroke-width="10" stroke-linecap="square"/>
-  <path d="M82 44 L100 39 L95 58 L87 53 L82 44Z" fill="#2D8CFF"/>
-  <text x="18" y="75" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-5" fill="#ffffff">FX</text>
-</svg>
